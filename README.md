@@ -1,5 +1,3 @@
-Hier der README-Text direkt zum Kopieren:
-
 ---
 
 # NetBird on Synology NAS — Supplementary Guide
