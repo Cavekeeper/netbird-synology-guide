@@ -1,3 +1,6 @@
+
+---
+
 # NetBird auf Synology NAS — Deinstallation, Reset & Neuregistrierung
 
 > Ergänzte Anleitung basierend auf der offiziellen Dokumentation (docs.netbird.io/get-started/install/synology).  
